@@ -1,0 +1,11 @@
+# Python 3.11
+Gooey~=1.0.8.1
+ifcopenshell~=0.7.10
+geopandas~=1.0.1
+numpy~=2.0.1
+shapely~=2.0.5
+pytest~=8.3.2
+setuptools~=72.1.0
+bpy~=4.2.0
+mathutils~=3.3.0
+pandas~=2.2.2
